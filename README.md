@@ -23,6 +23,6 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/Muhamma21037073" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhammad" height="30" width="40" /></a>
+<a href="https://twitter.com/muhammad_1_amin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhammad" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-al-amin01/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100024610068552" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhammad" height="30" width="40" /></a></p>
