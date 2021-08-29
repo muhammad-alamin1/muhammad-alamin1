@@ -10,6 +10,8 @@
 <br/>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&locale=en" alt="muhammad" /></p>
 <br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-alamin1&" alt="muhammad" /></p>
+<br />
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/muhammad_1_amin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhammad" height="30" width="40" /></a>
