@@ -21,8 +21,8 @@
   <a href="https://github.com/muhammad-alamin1">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=algolia&count_private=true">
   </a>
-  <a href="https://github.com/muhammad-alamin1">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muhammad-alamin1&layout=compact&theme=algolia&langs_count=6" />
+  <a href="https://github.com/evilprince2009">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=evilprince2009&layout=compact&theme=algolia&langs_count=6" />
   </a>
   <a href="https://github.com/muhammad-alamin1">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=muhammad-alamin1&theme=react-dark&hide_title=true&hide_border=true&area=true" />
