@@ -29,6 +29,6 @@
   </a>
 </p>
 
-[![Foo](https://www.dualexec.com/page/lib/exe/fetch.php?media=2019-03-24_14_37_14-crypto-analytics_author_commits.png)](http://www.dualexec.com/)
+[![Foo](https://www.dualexec.com/page/lib/exe/fetch.php?username=muhammad-alamin1&theme=react-dark&hide_title=true&hide_border=true&area=true?media=2019-03-24_14_37_14-crypto-analytics_author_commits.png)](http://www.dualexec.com/)
 
 ### 💖👉 Visit my [Portfolio](https://muhammad01.netlify.app/) 🦅
