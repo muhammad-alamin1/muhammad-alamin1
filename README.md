@@ -14,7 +14,9 @@
     </p>
   </samp> -->
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammad-alamin1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammad-alamin1&theme=algolia&count_private&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  </p>
  <p align="center">
   <a href="https://github.com/muhammad-alamin1">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=algolia&count_private=true">
