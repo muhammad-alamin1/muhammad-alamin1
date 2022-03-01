@@ -24,7 +24,7 @@
   <a href="https://github.com/muhammad-alamin1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-alamin1&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=10" alt="muhammad-alamin1" />
 
-    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammad-alamin1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammad-alamin1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
