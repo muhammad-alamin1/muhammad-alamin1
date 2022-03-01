@@ -15,7 +15,7 @@
   </samp> -->
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-alamin1&theme=algolia&hide_border=true"/>
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammad-alamin1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
  <p align="center">
   <a href="https://github.com/muhammad-alamin1">
