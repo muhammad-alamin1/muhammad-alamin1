@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a Web Application developer, mostly experienced with developing dynamic and high end web based tools and task automations.
-- ⚡ Always available for new opportunities, my experties include:-
+- 🦅 Always available for new opportunities, my experties include:-
 
   - ⚡ C/C++, Python
   - ⚡ Node , Express
@@ -9,20 +9,18 @@
   - ⚡ Data Structure & Algorithms
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=muhammad-alamin1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-alamin1"/></p>
-  <!-- <samp>
-    <p align="right"><img src="https://profile-counter.glitch.me/evilprince2009/count.svg" />
-    </p>
-  </samp> -->
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammad-alamin1&theme=algolia&count_private&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
  <p align="center">
-  <a href="https://github.com/muhammad-alamin1">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=algolia&count_private=true">
-  </a>
+  [![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&theme=tokyonight&show_icons=true)](https://github.com/za-rakib/github-readme-stats)
+  
   <a href="https://github.com/muhammad-alamin1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-alamin1&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=10" alt="muhammad-alamin1" />
 </p>
+  
+<!--END_SECTION:waka-->
+<h3> 🤝🏻 Connect with Me </h3>
+<p><a href="https://www.linkedin.com/in/muhammad-al-amin01/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://twitter.com/muhammad_1_amin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://drive.google.com/file/d/1-ofz0o-zILZEGIYl5PPaNRmk6LCnsK6W/view" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-1DA1F2?style=for-the-badge&l=white" /></a>
 
-### 💖👉 Visit my [Portfolio](https://muhammad01.netlify.app/) 🦅
