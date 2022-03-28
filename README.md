@@ -13,7 +13,9 @@
 
 [![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&theme=tokyonight&show_icons=true)](https://github.com/muhammad-alamin1/github-readme-stats)
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=radical)
+<a href="https://github.com/muhammad-alamin1">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muhammad-alamin1&layout=compact&theme=algolia&langs_count=12" />
+ </a>
  
 <!--END_SECTION:waka-->
 <h3> 🤝🏻 Connect with Me </h3>
