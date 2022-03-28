@@ -13,11 +13,8 @@
 
 [![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&theme=tokyonight&show_icons=true)](https://github.com/muhammad-alamin1/github-readme-stats)
 
- <p align="center">  
-  <a href="https://github.com/muhammad-alamin1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-            alamin1&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=10" alt="muhammad-alamin1" />
-</p>
-  
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=radical)
+ 
 <!--END_SECTION:waka-->
 <h3> 🤝🏻 Connect with Me </h3>
 <p><a href="https://www.linkedin.com/in/muhammad-al-amin01/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
