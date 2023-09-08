@@ -2,11 +2,9 @@
 - 🔭 I’m a Web Application developer, mostly experienced with developing dynamic and high end web based tools and task automations.
 - 🦅 Always available for new opportunities, my experties include:-
 
-  - ⚡ C/C++, Python
-  - ⚡ Node , Express
-  - ⚡ React, Typescript
-  - ⚡ MySql, Firebase, MongoDB
-  - ⚡ Data Structure & Algorithms
+  - ⚡ C/C++, Python, JavaScript
+  - ⚡ Node, React
+  - ⚡ SQL
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=muhammad-alamin1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-alamin1"/></p>
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
