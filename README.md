@@ -15,5 +15,6 @@
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&locale=en" alt="muhammad-alamin1" /></p>
 
-[![Muhammad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammad-alamin1)]
+[Muhammad's WakaTime stats](https://wakatime.com/@muhammad-alamin1)
+
 
