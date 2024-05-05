@@ -13,8 +13,8 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muhammad-alamin1&layout=compact&theme=algolia&langs_count=12" />
  </a>
 
- [![Muhammad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/muhammad-alamin1/github-readme-stats#gh-dark-mode-only)
-[![Muhammad's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/muhammad-alamin1/github-readme-stats#gh-light-mode-only)
+ <p>&nbsp;[![Muhammad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/muhammad-alamin1/github-readme-stats#gh-dark-mode-only)
+[![Muhammad's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/muhammad-alamin1/github-readme-stats#gh-light-mode-only)</p>
 
-[![Muhammad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammad-alamin1)](https://github.com/muhammad-alamin1/github-readme-stats)
+[![Muhammad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammad-alamin1)](https://github.com/anuraghazra/github-readme-stats)
 
