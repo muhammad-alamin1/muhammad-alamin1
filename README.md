@@ -13,6 +13,6 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muhammad-alamin1&layout=compact&theme=algolia&langs_count=12" />
  </a>
 
- ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=transparent)
+ <p align="right">![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-alamin1&show_icons=true&theme=transparent)</p>
 
 
