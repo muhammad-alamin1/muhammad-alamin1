@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <a href="https://github.com/muhammad-alamin1">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muhammad-alamin1&layout=compact&theme=algolia&langs_count=20" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muhammad-alamin1&layout=compact&theme=algolia&langs_count=10" />
  </a>
 
 
