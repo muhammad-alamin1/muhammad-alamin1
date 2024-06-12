@@ -3,14 +3,15 @@
 - 🦅 Always available for new opportunities, my experties include:-
 
   - ⚡ C/C++, Python, JavaScript
-  - ⚡ Node, React, Django
-  - ⚡ SQL
+  - ⚡ NodeJS, Django, Django REST
+  - ⚡ ReactJS, NextJS
+  - ⚡ SQL, PostgreSQL, MySQL, MongoDB
   - ⚡ DSA
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=muhammad-alamin1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-alamin1"/></p>
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-alamin1&langs_count=8&theme=algolia&layout=donut)](https://github.com/muhammad-alamin1/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-alamin1&layout=compact&theme=radical)](https://github.com/muhammad-alamin1) 
 
  <picture>
   <source
